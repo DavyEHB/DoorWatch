@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DoorWatch</string>
+    <string name="title_activity_main">Door Watch</string>
+    <string name="Play_not_available">Google Play Service not available</string>
+    <string name="doorIDHint">Door ID</string>
+    <string name="numberPickerTitle">Enter door ID</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="tv_door_id">Door ID:</string>
+    <string name="pair">Pair</string>
+    <string name="unpair">Unpair</string>
+    <string name="title_activity_incomming">Doorbell pushed</string>
+</resources>
